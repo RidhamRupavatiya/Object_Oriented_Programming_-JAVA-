@@ -38,6 +38,6 @@ class Donkey extends Animal implements Transport{
 // main file
 class P3{
 	public static void main(String[] args) {
-		// Declaration of the main file is in waiting mode ----------------;
+		
 	}
 }
